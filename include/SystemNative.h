@@ -8,7 +8,7 @@
 #include "SystemNative/io.h"
 #include "SystemNative/env.h"
 #include "SystemNative/console.h"
-#include "SystemNative/monitor.h"
+#include "SystemNative/threading.h"
 #include "SystemNative/dl.h"
 #include "SystemNative/log.h"
 
