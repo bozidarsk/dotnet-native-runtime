@@ -44,7 +44,5 @@ void SystemNative_GetControlCharacters(int32_t* controlCharacterNames, uint8_t* 
 int32_t SystemNative_GetWindowSize(WinSize* windowSize);
 int32_t SystemNative_SetWindowSize(WinSize* windowSize);
 void SystemNative_SetKeypadXmit(const char* terminfoString);
-// void SystemNative_InitializeTerminalAndSignalHandling();
-// void SystemNative_SetTerminalInvalidationHandler();
 
 #endif
