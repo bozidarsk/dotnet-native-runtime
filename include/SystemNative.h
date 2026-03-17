@@ -10,8 +10,6 @@
 #include "SystemNative/console.h"
 #include "SystemNative/monitor.h"
 #include "SystemNative/dl.h"
-
-// ???
-void SystemNative_LogError();
+#include "SystemNative/log.h"
 
 #endif
