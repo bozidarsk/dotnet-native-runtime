@@ -11,10 +11,6 @@
 #include "SystemNative/monitor.h"
 #include "SystemNative/dl.h"
 
-// dynamic
-void SystemNative_GetLoadLibraryError(void);
-void SystemNative_LoadLibrary();
-
 // ???
 void SystemNative_LogError();
 
